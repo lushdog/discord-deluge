@@ -1,0 +1,13 @@
+{
+  "server1": {
+    "DELUGE_HOST": "127.0.0.1",
+    "DELUGE_PORT": "8112",
+    "QBIT_PASSWORD": "deluge"
+  },
+  "server2": {
+    "DELUGE_HOST": "127.0.0.1",
+    "DELUGE_PORT": "8112",
+    "QBIT_PASSWORD": "deluge"
+  },
+  "discordToken": ""
+}
